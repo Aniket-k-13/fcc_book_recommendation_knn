@@ -37,9 +37,14 @@ Returns:
 ["Input Book Title", [["Recommended Book", distance], ...]]
 FCC automated unit tests passed ✅
 
-🗂 Dataset Source
+```
+
+---
+
+## 🗂 Dataset Source
 Provided by FreeCodeCamp inside the notebook
 
 👤 Author
 Aniket Khandare
+
 
