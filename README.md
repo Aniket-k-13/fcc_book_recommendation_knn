@@ -1,5 +1,3 @@
-﻿# fcc_book_recommendation_knn
-
 # 📚 Book Recommendation Engine using KNN
 
 This project is part of the **FreeCodeCamp Machine Learning with Python Certification**.  
@@ -44,3 +42,4 @@ Provided by FreeCodeCamp inside the notebook
 
 👤 Author
 Aniket Khandare
+
